@@ -18,4 +18,5 @@ scanf("%d,%d",&n,&p);
 printf("n^p=%d",power(n,p));
 return 0;
 }
+//Edited by Tarunvir!
 
